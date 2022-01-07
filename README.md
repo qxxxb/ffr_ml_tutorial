@@ -5,8 +5,8 @@ This is an example project to show how to use machine learning in context of FFR
 - `main.ipynb` contains models for linear regression,
 logistic regression, support vector machine, k-nearest neighbors, and k-means
 clustering
-- `neural_network.ipynb` contains neural network model
-- `FFR_data.csv` is a practice dataset based on the data published in this
+- `neural_network.ipynb` contains a neural network model
+- `FFR_data.csv` is a practice dataset based on this
 paper: "Hart, B. N. &amp; Jeng, F.-C. (2021) A demonstration of machine
 learning in detecting frequency following responses in American neonates.
 Percept Mot Skills, 128(1) 48–58. www.doi.org/10.1177/0031512520960390". This
