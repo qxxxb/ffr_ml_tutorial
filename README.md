@@ -14,7 +14,7 @@ dataset contains six FFR features (FrequencyError, SlopeError,
 TrackingAccuracy, SpectralAmplitude, PitchStrength, and RMSAmplitude) and a
 target response label (FFR).
 
-This package is developed by the Auditory Electrophysiology Lab at Ohio
+This package is developed by the Auditory Electrophysiology Laboratory at Ohio
 University. This package is distributed to facilitate learning, but without any
 warranty. The user is free to use, modify, and re-distribute this package under
 the terms of an MIT license.
